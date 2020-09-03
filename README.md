@@ -6,7 +6,7 @@ Software Developer
 
 - 🔭 I’m currently working on NodeJs, JavaScript, AWS, MongoDB
 - 🌱 I’m currently learning to pursue AWS developer Associate certificate and AngularJS
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Angular NodeJS MongoDB
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about JavaScript, NodeJS
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/anuja-patil-ab797111a)
