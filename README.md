@@ -5,7 +5,7 @@
 Software Developer
 
 - 🔭 I’m currently working on NodeJs, JavaScript, AWS, MongoDB
-- 🌱 I’m currently learning to pursue AWS developer Associate certificate and AngularJS
+- 🌱 I’m currently learning to pursue AWS developer Associate certificate and ReactJS
 - 👯 I’m looking to collaborate on Angular NodeJS MongoDB
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about JavaScript, NodeJS
